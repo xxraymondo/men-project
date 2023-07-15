@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "64a9563efe14581642304c45"
+  },
+  "name": {
+    "name": "khaled"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a976c7d750ecf8c34c13d0"
+  },
+  "username": "username1",
+  "password": "password1",
+  "__v": 0,
+  "products": [
+    {
+      "id": "64a9ca5f73c8abdb96f18e24"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a978e57dfbb144752af27a"
+  },
+  "username": "username2",
+  "password": "password2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a979155579df5438c663d9"
+  },
+  "username": "username3",
+  "password": "password3",
+  "__v": 0,
+  "products": [
+    {
+      "_id": {
+        "$oid": "64a9e8eef6709f3c6bfa3c95"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a9e8fff6709f3c6bfa3c98"
+      }
+    },
+    {
+      "id": "64a9caaa5bf6d3c0b520fe30",
+      "_id": {
+        "$oid": "64a9e967c124321d54f9d939"
+      }
+    },
+    {
+      "id": "64a9caaa5bf6d3c0b520fe30",
+      "_id": {
+        "$oid": "64a9e972c124321d54f9d93e"
+      }
+    },
+    {
+      "id": "64a9a37873b5a8ab919d80dc",
+      "_id": {
+        "$oid": "64a9e98ec124321d54f9d944"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9a9ea4c6eb5117cf37385"
+  },
+  "username": "username4",
+  "password": "password4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a9e59efb04fa10c53cf04c"
+  },
+  "username": "username11",
+  "password": "password11",
+  "products": [
+    {
+      "_id": {
+        "$oid": "64a9e775846d8cdecdb266c0"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a9e7ae846d8cdecdb266c3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a9e7de846d8cdecdb266c7"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64a9e819846d8cdecdb266cc"
+      }
+    }
+  ],
+  "__v": 0
+}]
